@@ -9,7 +9,6 @@ relative_permalinks: true
 # Setup
 title:            Trinity Cannes
 tagline:          "The world's most prestigious film festival comes to Trinity "
-description:      "The world's most prestigious film festival comes to Trinity"
 baseurl:          /tcafilm
 
 author:
