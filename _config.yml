@@ -11,7 +11,7 @@ title:            Trinity Cannes
 tagline:          "The world's most prestigious film festival comes to Trinity "
 description:      "The world's most prestigious film festival comes to Trinity"
 url:              http://tcafrenchfilm.tk
-baseurl:          /
+baseurl:          /tcafilm
 
 author:
   name:           'Isaac Rowe'

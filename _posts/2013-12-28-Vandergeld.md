@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Vandergeld: Meat Emperor
+category: archive
 ---
-{% youtube r4gwcYn0Cvs %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4gwcYn0Cvs" frameborder="0" allowfullscreen></iframe>
 
 It is the year 2098. As a direct result of the world's insane love for bacon, Vandergeld Meat Products, a wholly-owned subsidiary of Vandergeld Heavy Industries, dominates 95% of the world economy. Its owner, Mr. Vandergeld, is the most powerful and least reasonable man to ever roll upon this presently God-forsaken earth.
 
