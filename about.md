@@ -4,9 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+"{{site.tagline}}"
 </p>
+<p>Every year, students from Trinity Christian Academy compete in a cutthroat contest for ultimate glory. Videos aon this site are divided by French level, and judged by various staff members. Merci</p>
 
+<h3>About the theme</h3>
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
