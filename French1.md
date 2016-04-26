@@ -5,6 +5,12 @@ published: true
 ---
 ## 2016
 
+### Fist of Resistance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYgIlJSHGQc" frameborder="0" allowfullscreen></iframe>
+
+ROGUE VENTURE presents........... Fist of Resistance One of the most thrilling french videos ever created, Poignèe de la Resistance captures audiences in a new way. A poverty stricken village in Benin in the year 2006 is being terrorized by a local gang organization led by criminal mastermind Thierry. An American Delta squad has long been working to put down these dangerous thugs. Dino, an inhabitant of this village, departs on a thrilling adventure with his loyal friend Theo to find a new life.
+
 ### Floride Nouvelles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I1aamHEroP8" frameborder="0" allowfullscreen></iframe>
