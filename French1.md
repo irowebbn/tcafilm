@@ -16,6 +16,10 @@ published: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I1aamHEroP8" frameborder="0" allowfullscreen></iframe>
 
+### Le Café De France
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cddu4xMddtI" frameborder="0" allowfullscreen></iframe>
+
 ### Dora
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbGpTXolYZ8" frameborder="0" allowfullscreen></iframe>
