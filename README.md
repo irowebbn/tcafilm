@@ -45,9 +45,13 @@ Each of these files is structured like the class level pages. There needs to be 
 
 ```
 ---
+layout: post
+title: "2014 Palm d'Or"
+category: archive
 published: true
 ---
 ```
+Make sure you update the information if you copy/paste.
 
 Below that there is a third level header with the title, the embed code for the video, and a short description of the video (hopefully in French).
 
