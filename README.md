@@ -1,3 +1,66 @@
+# TCA French Film Festival
+Every year, the students in Trinity Christian Academy's French program compete in a the prestigious Trinity Cannes Film Festival, vying for the coveted Palm d'Or. All films are student made and must be entirely in French. All the entries that are recieved in the correct format are listed in under the class level for which they were produced (French I - IV), while the winners are listed on the home page.
+
+## How to edit
+
+ You must be in the _gh-pages_ branch for changes to work 
+
+### Adding a video for a class
+
+Each class level has its own file in the main folder. These are named _French1.md_, _French2.md_, etc. 
+
+Each file has a header with the information about the page. This is so Jekyll can show the file correctly on the site. The header is bounded by three hyphens like below:
+
+  ```
+  ---
+  layout: page
+  title: French 1
+  published: true
+  ---
+  ```
+
+Below that there is a year heading. Beneath this, but above ther other content is where the video will be placed. Notice there is a pound sign before the year. This is because it is a first level heading, and headings are made with pound signs in Markdown, the type of file this is. If you need to learn markdown, here's a [good source](https://daringfireball.net/projects/markdown/syntax).
+
+Make a level-3 heading (3 pound signs and a space, ### ) with the tile of the film. If it has accented characters, use copy and paste to place them in the code.
+
+Enter down another line and paste the embed code for the video. If the video is from YouTube, this is as simple as clicking share under the title on YouTube, selecting embed and copying everything in the box.
+
+![Copying embed code from youtube image](https://www.easygenerator.com/wp-content/uploads/2016/05/1.png)
+
+For a video on Google Drive, select the embed code in the same manner:
+
+![Copying embed code Google Drive](http://blogs.acu.edu/adamscenter/files/2015/01/6.-Choose-embed.png)
+
+For Google Drive videos, it is necessary to change the size to `width="560" height="315"` in order to match the size of the YouTube embeds.
+
+If there is a description for the video, just paste it below the embed.
+
+When all else fails, just look at the pattern that's already there and follow it.
+
+### Adding a Palm d'Or Winner
+
+Winners are special. To help make them more special, they have a speacial place on the website. Each one has its own page, and also automatically appears on the home page. To this create a file in the _posts_ folder and name it `yyyy-mm-dd-name-with-dashes-for-spaces` where `yyyy` is the year, `mm` is the month, and `dd` is the day. Each of the winner posts is called _2016 Palm d'Or_ or something, so the year will be in the filename twice, like `2017-4-16-2017-Palm-d'Or`.
+
+Each of these files is structured like the class level pages. There needs to be a header that looks like the following:
+
+```
+---
+published: true
+---
+```
+
+Below that there is a third level header with the title, the embed code for the video, and a short description of the video (hopefully in French).
+
+Once this file is created and committed, it will show up on the homepage. Again, look at the existing examples for reference.
+
+Bon chance!
+
+-- Isaac
+
+Below is information about how the site works, from the original creator of the site design.
+
+## About the theme
+
 # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
