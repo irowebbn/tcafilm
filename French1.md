@@ -6,7 +6,9 @@ published: true
 ## 2016
 
 
+### Fist of Resistance
 
+<iframe width="560" height="315" src="https://youtu.be/_IrlsgK_s9E" frameborder="0" allowfullscreen></iframe>
 
 ### Café Rue
 
