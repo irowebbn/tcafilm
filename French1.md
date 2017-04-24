@@ -8,7 +8,7 @@ published: true
 
 ### Fist of Resistance
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/_IrlsgK_s9E" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/lYhS4ml7hcs" frameborder="0" allowfullscreen></iframe>
 
 ### Café Rue
 
