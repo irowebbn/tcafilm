@@ -11,12 +11,9 @@ published: true
 <iframe src="https://drive.google.com/file/d/0B1d0fEWKRuQddm1kUE5DaTNzYUUyN29wN05CM2MyNHhMb3Vv/preview" width="640" height="480"></iframe>
 
 
+
 ## 2016
 
-
-### Fist of Resistance
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/lYhS4ml7hcs" frameborder="0" allowfullscreen></iframe>
 
 ### Café Rue
 
@@ -38,6 +35,11 @@ published: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXjMEpChL-s" frameborder="0" allowfullscreen></iframe>
 <hr>
+
+### Fist of Resistance
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/lYhS4ml7hcs" frameborder="0" allowfullscreen></iframe>
+
 
 ## 2015
 
