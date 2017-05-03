@@ -8,7 +8,7 @@ published: true
 
 ### Lancer la Baguette
 
-<iframe src="https://drive.google.com/file/d/0B1d0fEWKRuQddm1kUE5DaTNzYUUyN29wN05CM2MyNHhMb3Vv/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B1d0fEWKRuQddm1kUE5DaTNzYUUyN29wN05CM2MyNHhMb3Vv/preview" width="560" height="315"></iframe>
 
 
 
