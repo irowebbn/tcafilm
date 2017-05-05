@@ -7,15 +7,15 @@ published: true
 
 ### Le Défilé de Mode sur ID-10-T
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RcBIF4w4Vps" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RcBIF4w4Vps" frameborder="0" allowfullscreen></iframe>
 
 ### Les Problèmes de la Famille
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/eamM6rvxxoI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eamM6rvxxoI" frameborder="0" allowfullscreen></iframe>
 
 ### Clay's Dating Adventure
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/I_RhYoc5jg0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_RhYoc5jg0" frameborder="0" allowfullscreen></iframe>
 
 ### Lancer la Baguette
 
