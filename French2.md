@@ -5,9 +5,13 @@ published: true
 ---
 ## 2017
 
+### Fist of Resistance Interview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew_ZDWmv4N8" frameborder="0" allowfullscreen></iframe>
+
 ### Elsa and the Gang
 
-<iframe width="932" height="522" src="https://www.youtube.com/embed/OIdauqOg4vw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIdauqOg4vw" frameborder="0" allowfullscreen></iframe>
 
 ### Cooking Segment Gone Wrong
 
