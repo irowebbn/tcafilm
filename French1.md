@@ -5,6 +5,10 @@ published: true
 ---
 ## 2017
 
+### this is my schools french video
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/RjyBWLcrPTM" frameborder="0" allowfullscreen></iframe>
+
 ### Le Petit Prince
 
 <iframe width="932" height="522" src="https://www.youtube.com/embed/fP7CSCoDwcA" frameborder="0" allowfullscreen></iframe>
