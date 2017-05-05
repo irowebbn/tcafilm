@@ -3,6 +3,15 @@ layout: page
 title: French 2
 published: true
 ---
+## 2017
+
+### Elsa and the Gang
+
+<iframe width="932" height="522" src="https://www.youtube.com/embed/OIdauqOg4vw" frameborder="0" allowfullscreen></iframe>
+
+### Cooking Segment Gone Wrong
+
+
 ## 2016
 
 ### Jésus Revient
