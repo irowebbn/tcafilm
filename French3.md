@@ -3,6 +3,20 @@ layout: page
 title: French 3
 published: true
 ---
+
+## 2017
+
+### Les Defis
+
+<iframe src="https://drive.google.com/file/d/0B0H4ZTvD6MSZU0hFOE9CNmZSdVU/preview" width="640" height="480"></iframe>
+
+### Arrow 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZfHkxvAS5A" frameborder="0" allowfullscreen></iframe>
+
+
+
+
 ## 2016
 
 ### Le Butin Groupe
