@@ -8,11 +8,11 @@ published: true
 
 ### Le Maladie
 
-<iframe width="932" height="522" src="https://www.youtube.com/embed/lxSGK0-_P78" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxSGK0-_P78" frameborder="0" allowfullscreen></iframe>
 
 ### Les Defis
 
-<iframe src="https://drive.google.com/file/d/0B0H4ZTvD6MSZU0hFOE9CNmZSdVU/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B0H4ZTvD6MSZU0hFOE9CNmZSdVU/preview" width="560" height="315"></iframe>
 
 ### Arrow 
 
