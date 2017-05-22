@@ -7,7 +7,7 @@ published: true
 
 ### Qu'ils Mangent de la Brioche
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/ky7uRLxMnGU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ky7uRLxMnGU" frameborder="0" allowfullscreen></iframe>
 
 ## 2016
 
