@@ -3,6 +3,12 @@ layout: page
 title: French 4
 published: true
 ---
+## 2017
+
+### Qu'ils Mangent de la Brioche
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/ky7uRLxMnGU" frameborder="0" allowfullscreen></iframe>
+
 ## 2016
 
 ### Trouvant l'amour
