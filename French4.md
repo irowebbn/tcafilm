@@ -3,6 +3,12 @@ layout: page
 title: French 4
 published: true
 ---
+## 2018
+
+### Le Fou
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/6ZF2tlbg4oI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## 2017
 
 ### Qu'ils Mangent de la Brioche
