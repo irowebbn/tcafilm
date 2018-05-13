@@ -3,6 +3,27 @@ layout: page
 title: French 3
 published: true
 ---
+## 2018
+
+### Le Nouveau Monde
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_2x5y8nTLqU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Le Bonne Docteur
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Hxw7SjLW2k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Parodie De Dance Moms
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOxSX0WhhsE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Sophomore Retreat (Recreation)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ulp70o5_i0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Le Malidiction De Kardashians
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vz9pwoxWK0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 2017
 
