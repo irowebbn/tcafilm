@@ -3,6 +3,26 @@ layout: page
 title: French 1
 published: true
 ---
+## 2018
+
+
+### La Famille
+
+<iframe width="560" height="315rc="https://www.youtube.com/embed/GaRYVvxp49U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Les Hommes sans-Abri
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3tr4vffowE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Le repas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjUo9uWTBR8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Les Vacances
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hmag9LBKb84" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ## 2017
 
 
